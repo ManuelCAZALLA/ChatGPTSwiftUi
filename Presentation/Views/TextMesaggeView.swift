@@ -8,8 +8,6 @@
 import SwiftUI
 import SwiftOpenAI
 
-import SwiftUI
-
 struct TextMessageView: View {
     var message: MessageChatGPT
     
